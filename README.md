@@ -1,7 +1,7 @@
-CM10.2 device tree for HTC Explorer
+SlimBean device tree for HTC Explorer
 ===================================
 
-Cyanogenmod Device tree for HTC Explorer A310e
+SlimBean Device tree for HTC Explorer A310e
 
 Hardware Specs
 ==============
