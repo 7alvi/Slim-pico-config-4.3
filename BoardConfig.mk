@@ -79,8 +79,8 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 0x09600000
 BOARD_FLASH_BLOCK_SIZE := 262144
 
 # Inline kernel building
-TARGET_KERNEL_SOURCE := kernel/htc_pico_3.0.89
-TARGET_KERNEL_CONFIG := pico_cm10_defconfig
+TARGET_KERNEL_SOURCE := kernel/htc/pico
+TARGET_KERNEL_CONFIG := pico_defconfig
 #TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3
 
 # Vold
